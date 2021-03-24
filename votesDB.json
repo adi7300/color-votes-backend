@@ -1,0 +1,44 @@
+{
+  "colors": [
+    {
+      "id": "1",
+      "color": "salmon",
+      "votes": 54
+    },
+    {
+      "id": "2",
+      "color": "beige",
+      "votes": 145
+    },
+    {
+      "id": "3",
+      "color": "gold",
+      "votes": 37
+    },
+    {
+      "id": "4",
+      "color": "pink",
+      "votes": 29
+    },
+    {
+      "id": "5",
+      "color": "gray",
+      "votes": 38
+    },
+    {
+      "id": "6",
+      "color": "coral",
+      "votes": 150
+    },
+    {
+      "id": "7",
+      "color": "aqua",
+      "votes": 39
+    },
+    {
+      "id": "8",
+      "color": "brown",
+      "votes": 41
+    }
+  ]
+}
